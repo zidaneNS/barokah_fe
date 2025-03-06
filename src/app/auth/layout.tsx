@@ -4,7 +4,7 @@ export default function Layout({ children }: { children: React.ReactNode}) {
     return (
     <div className="min-h-screen bg-white relative">
       <Image 
-        src="/market.jpg"
+        src="/assets/auth/market.jpg"
         quality={100}
         alt="blur"
         fill
